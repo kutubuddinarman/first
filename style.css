@@ -1,4 +1,15 @@
 body{
-    background-color: red;
     font-family: 'Poppins', sans-serif;
+}
+section{
+    background-color:green;
+}
+.about_div{
+    width:40%;
+    float:left;
+    padding-left: 5%;
+    overflow: hidden;
+}
+img{
+    width: 100%;
 }
