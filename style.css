@@ -1,15 +1,18 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family:sans-serif;
+    
+}
+img{
+    width: 100%;
 }
 section{
-    background-color:green;
+    height: 400px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 .about_div{
     width:40%;
     float:left;
     padding-left: 5%;
-    overflow: hidden;
 }
-img{
-    width: 100%;
-}
+
